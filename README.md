@@ -1,6 +1,6 @@
 # First-Git-Project
 
-Hello from Krakow in Poland to Zamibia
+Hello from Krakow in Poland to Zambia
 
 How are you doing?
 
