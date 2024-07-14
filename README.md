@@ -6,7 +6,7 @@
 -   please go to the issues menu item, next to code, here in github.
 -   there you find an issue with further instructions.
 
-    24.07.2024
+24.07.2024
 
 Hello from Krakow in Poland to Zambia
 
