@@ -1,5 +1,13 @@
 # First-Git-Project
 
+25.07.2024
+
+-   in todays lesson we are going to explore branches, issues and pull requests.
+-   please go to the issues menu item, next to code, here in github.
+-   there you find an issue with further instructions.
+
+    24.07.2024
+
 Hello from Krakow in Poland to Zambia
 
 How are you doing?
