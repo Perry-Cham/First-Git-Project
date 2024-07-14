@@ -13,3 +13,10 @@ How are you doing?
 -   Then send me a message on Facebook :-)
 
 -   Have fun!! :-)
+-   Hello Natalie!!!
+-   Ive finally got this working
+-   I finally know how to use this!!!
+-   Its Zambia not Zamibia by the way
+-   Cant wait for tomorrow's task!
+-   I'll try to be more organised next time 
+-   Hello from Zambia
