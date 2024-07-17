@@ -4,3 +4,19 @@ body{
   justify-content: center;
   align-items: center;
 }
+
+#card{
+height: 250px;
+width: 200px;
+}
+img{
+  width: 100%;
+  height: auto;
+  border-radius:0 0 15px 15px;
+}
+article{}
+h4{
+  margin-bottom: 5px;
+  text-transform: upercase;
+  font-family: Arial, Helvetica, sans-serif;
+}
