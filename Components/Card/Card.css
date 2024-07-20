@@ -9,14 +9,15 @@ body{
 
 /*=== Card Styles === */
 .card{
-height: 500px;
-width: 230px;
+height: auto;
+width: 250px;
 border: solid 2px black;
 border-radius: 20px;
 box-shadow: 2px 2px 8px dimgrey;
 overflow: hidden;
 }
 
+/* Images */
  .mainImage{
   width: 100%;
   height: auto;
@@ -24,24 +25,29 @@ overflow: hidden;
 }
 
 .profile{
-  width: 50px;
+  width: 40px;
   height: auto;
   border-radius: 50%;
 }
 
 
-.card h4{
+.card h2{
   padding-left: 5px;
   margin-bottom: 5px; 
   display: inline-block;
 }
-p{
+.text{
   margin-top: 10px;
   padding-left: 5px;
   padding-right: 5px;
   text-align: justify;
   font-size: 0.95rem;
   color: hsla(0, 60%, 0, 1);
+}
+
+.date{
+  margin: 3px 5px;
+  color:hsla(235, 10%, 20%, 1);
 }
 
 button{
@@ -59,10 +65,13 @@ button{
   width: max-content;
 }
 .authorInfo{
+  margin: 20px 5px;
   display: flex;
   align-items: center; 
   justify-content: flex-start;
 }
-
+.authorInfo h4{
+  padding-left: 4px;
+}
 
 /* ==== End of Card Styles ==== */
